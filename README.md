@@ -10,8 +10,8 @@ A research assistant that answers questions using a Wikipedia search tool, with 
 ### 1. Clone the repo and create a virtual environment
 
 ```bash
-git clone <repo-url>
-cd anthropic
+git clone https://github.com/jeffreycxu/wikipedia-agent.git
+cd wikipedia-agent
 python3 -m venv .venv
 source .venv/bin/activate
 ```
